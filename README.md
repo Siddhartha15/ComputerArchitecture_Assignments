@@ -2,12 +2,16 @@
 
 SIMULATION OF RISC-V ASSEMBLY USING SPIKE
 
-Assignment given By: Prof Basavaraj Talawar
-		                 Assistant Professor
-		                 Computer Science and Engineering Department,NITK
+Assignment given By: 
+	
+	Prof Basavaraj Talawar
+	Assistant Professor
+	Computer Science and Engineering Department,NITK
 
-Done By: Siddhartha M(17CO246)
-		     Chandan Naik(17CO212)
+Done By: 
+
+	 Siddhartha M(17CO246)
+	 Chandan Naik(17CO212)
 
 During "Computer Organisation and Architecture"(CO200) Course in Semester-3
 Submitted On 7 September 2018
