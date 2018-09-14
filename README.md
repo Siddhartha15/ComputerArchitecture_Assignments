@@ -14,6 +14,7 @@ Done By:
 	 Chandan Naik(17CO212)
 
 During "Computer Organisation and Architecture"(CO200) Course in Semester-3
+
 Submitted On 7 September 2018
 
 This repository contains 8-folders corresponding to each question decribed as prob1, prob2 and so on upto prob8
